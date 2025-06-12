@@ -1,0 +1,2 @@
+D:\hS\Forklift Training\Forklift Training\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\hS\Forklift Training\Forklift Training\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

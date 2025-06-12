@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c252863d3264814b8c34a1c4a2e762d, type: 3}
+  m_Name: Steering Wheel_HandGrabCollection
+  m_EditorClassIdentifier: 
+  _interactablesData:
+  - poses:
+    - gripPose:
+        position: {x: 0.04268972, y: 0.23364317, z: 0.050727934}
+        rotation: {x: -0.06260096, y: -0.98461, z: -0.061650366, w: 0.15107487}
+      handPose:
+        _handedness: 1
+        _fingersFreedom: 0200000002000000010000000100000000000000
+        _jointRotations:
+        - {x: 0.17616425, y: -0.43017176, z: 0.68178153, w: 0.5648824}
+        - {x: 0.13602531, y: 0.05822426, z: -0.082724586, w: 0.98552704}
+        - {x: 0.05247445, y: -0.055918332, z: 0.08098646, w: 0.993761}
+        - {x: 0, y: 0, z: 0, w: 0.99999976}
+        - {x: 0.44432035, y: 0.10403564, z: 0.00039391185, w: 0.88980633}
+        - {x: 0.2973514, y: -0.0008095362, z: -0.026207918, w: 0.9544077}
+        - {x: 0.088504165, y: 0.024473201, z: -0.016820816, w: 0.99563265}
+        - {x: 0, y: 0, z: 0, w: 0.99999976}
+        - {x: 0.530137, y: 0.084002234, z: -0.055174533, w: 0.8419345}
+        - {x: 0.5997013, y: -0.003255609, z: -0.012856035, w: 0.8001139}
+        - {x: 0.3686104, y: -0.0155836735, z: -0.07663945, w: 0.9262881}
+        - {x: 0, y: 0, z: 0, w: 0.99999976}
+        - {x: 0.57002014, y: 0.08543418, z: -0.112175554, w: 0.8094408}
+        - {x: 0.62775743, y: -0.018718293, z: -0.041917633, w: 0.7770541}
+        - {x: 0.45578563, y: -0.0281934, z: -0.025522096, w: 0.8892767}
+        - {x: 0.018311862, y: 0.14034282, z: -0.20703593, w: 0.9680415}
+        - {x: 0.54920304, y: 0.06250984, z: 0.0432131, w: 0.8322263}
+        - {x: 0.60937357, y: 0.009825974, z: -0.08414564, w: 0.78834367}
+        - {x: 0.48338953, y: -0.04268993, z: 0.0023042555, w: 0.8743603}
+      scale: 1.0354435
+    grabType: 3
+    handAlignment: 1
+    scoringModifier:
+      _positionRotationWeight: 0.8
+    pinchGrabRules:
+      _thumbRequirement: 1
+      _indexRequirement: 1
+      _middleRequirement: 1
+      _ringRequirement: 0
+      _pinkyRequirement: 0
+      _unselectMode: 0
+    palmGrabRules:
+      _thumbRequirement: 1
+      _indexRequirement: 2
+      _middleRequirement: 2
+      _ringRequirement: 2
+      _pinkyRequirement: 1
+      _unselectMode: 0

@@ -1,0 +1,10 @@
+# ninja log v5
+36	1937	7705471782886946	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	1639325440b8d677
+17	1989	7705471782943040	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	1f4d362cdabe3acd
+23	1992	7705471783165889	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	563021a30f16a805
+6	2013	7705471783418420	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	fbaf089d2f0da57
+11	2054	7705471783950390	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	552a859f2f5b4be8
+43	2110	7705471784595061	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	6b31825107cbae1c
+30	2515	7705471788694469	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	bf116e8ca12ad145
+0	2720	7705471790696143	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f8d30652f0548dd3
+2722	2929	7705471792820494	D:/hS/Forklift Training/Forklift Training/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/172l1c6w/obj/arm64-v8a/libgame.so	4f901e10bb737204
